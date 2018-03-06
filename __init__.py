@@ -3,3 +3,6 @@ def future_1:
 
 def future_2:
     pass
+
+def future_3:
+    pass
