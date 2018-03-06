@@ -8,4 +8,6 @@ def future_2:
         k = k+1
 
 def future_3:
-    pass
+    print('test')
+    print('test_1')
+    print('test_2')
