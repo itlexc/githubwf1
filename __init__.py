@@ -4,7 +4,8 @@ def future_1:
     return ('ok')
 
 def future_2:
-    pass
+    for k in range(5):
+        k = k+1
 
 def future_3:
     pass
